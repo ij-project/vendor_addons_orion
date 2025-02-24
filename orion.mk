@@ -162,11 +162,6 @@ PRODUCT_PACKAGES += \
     IconPackCircularSettingsOverlay \
     IconPackCircularSystemUIOverlay \
     IconPackCircularThemePickerOverlay \
-    IconPackFilledAndroidOverlay \
-    IconPackFilledLauncherOverlay \
-    IconPackFilledSettingsOverlay \
-    IconPackFilledSystemUIOverlay \
-    IconPackFilledThemePickerOverlay \
     IconPackGradiconAndroidOverlay \
     IconPackGradiconSystemUIOverlay \
     IconPackKaiAndroidOverlay \
@@ -174,18 +169,6 @@ PRODUCT_PACKAGES += \
     IconPackKaiSettingsOverlay \
     IconPackKaiSystemUIOverlay \
     IconPackKaiThemePickerOverlay \
-    IconPackLornAndroidOverlay \
-    IconPackLornSystemUIOverlay \
-    IconPackNostalgicAndroidOverlay \
-    IconPackNostalgicLauncherOverlay \
-    IconPackNostalgicSettingsOverlay \
-    IconPackNostalgicSystemUIOverlay \
-    IconPackNostalgicThemePickerOverlay \
-    IconPackOOSAndroidOverlay \
-    IconPackOOSLauncherOverlay \
-    IconPackOOSSettingsOverlay \
-    IconPackOOSSystemUIOverlay \
-    IconPackOOSThemePickerOverlay \
     IconPackOutlineAndroidOverlay \
     IconPackOutlineLauncherOverlay \
     IconPackOutlineSettingsOverlay \
@@ -196,25 +179,7 @@ PRODUCT_PACKAGES += \
     IconPackPUISystemUIOverlay \
     IconPackPUIThemePickerOverlay \
     IconPackPlumpyAndroidOverlay \
-    IconPackPlumpySystemUIOverlay \
-    IconPackRoundedAndroidOverlay \
-    IconPackRoundedLauncherOverlay \
-    IconPackRoundedSettingsOverlay \
-    IconPackRoundedSystemUIOverlay \
-    IconPackRoundedThemePickerOverlay \
-    IconPackSamAndroidOverlay \
-    IconPackSamLauncherOverlay \
-    IconPackSamSettingsOverlay \
-    IconPackSamSystemUIOverlay \
-    IconPackSamThemePickerOverlay \
-    IconPackVictorAndroidOverlay \
-    IconPackVictorLauncherOverlay \
-    IconPackVictorSettingsOverlay \
-    IconPackVictorSystemUIOverlay \
-    IconPackVictorThemePickerOverlay \
-    IconPackXperiaAndroidOverlay \
-    IconPackXperiaSettingsOverlay \
-    IconPackXperiaSystemUIOverlay
+    IconPackPlumpySystemUIOverlay
 
 # Icon Shapes
 PRODUCT_PACKAGES += \
