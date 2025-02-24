@@ -399,13 +399,6 @@ PRODUCT_PACKAGES += \
     AndroidAmoledBlackThemeOverlay \
     SettingsBlackThemeOverlay
 
-# Udfps
-ifeq ($(TARGET_HAS_UDFPS),true)
-PRODUCT_PACKAGES += \
-    UdfpsAnimations
-    # UdfpsIcons
-endif
-
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
